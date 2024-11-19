@@ -1,1 +1,1 @@
-Victory Temple Church - Home of Champions
+Victory Temple Church - Home of Champions web project init.
